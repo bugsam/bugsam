@@ -1,4 +1,17 @@
 ### Hi there 👋
+I am Samuel Almeida from Brazil 🇧🇷
+
+ # #
+### Highlights
+* Implementation of Chacha20 as a payload decoder in Assembly;
+* Implementation of ASN.1 to create a PEM file of derivated keys from .NET Framework in Powershell;
+* Many simple Assembly code's explained in details.
+
+ # #
+- 💬 Ask me about Assembly and C
+- ⚡ Fun fact: My dog's name is Csharp but I didn't know how to code C# when I named him.
+
+
 
 <!--
 **bugsam/bugsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
