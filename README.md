@@ -9,7 +9,7 @@ I am Samuel Almeida from Brazil 🇧🇷
 
  # #
 - 💬 Ask me about Assembly and C
-- ⚡ Fun fact: My dog's name is Csharp but I didn't know how to code C# when I named him.
+- ⚡ Fun fact: I named my dog as Csharp before knowing how to code it.
 
 
 
