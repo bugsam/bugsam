@@ -7,7 +7,7 @@ I am Samuel Almeida from Brazil 🇧🇷
 * Implementation of ASN.1 to create a PEM file of RSA derivated keys from .NET Framework in Powershell;
 * Many simple Assembly code's explained in details.
 
- # #
+ # 
 - 💬 Ask me about Assembly and C
 - ⚡ Fun fact: I named my dog as Csharp before knowing how to code it.
 
@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://user-images.githubusercontent.com/44240720/139313111-7da9a333-3fd3-4704-9c7a-a6950150c4b4.png" width=20% height=20%>
+<img src="https://user-images.githubusercontent.com/44240720/139318497-15329c49-539e-4b70-aa55-99782079dc22.png" width=150px height=150px><img src="https://user-images.githubusercontent.com/44240720/139313111-7da9a333-3fd3-4704-9c7a-a6950150c4b4.png" width=150px height=150px>
+
+  
