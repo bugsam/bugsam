@@ -5,7 +5,7 @@ I am Samuel Almeida from Brazil 🇧🇷
 ### Highlights
 * Implementation of Chacha20 as a payload decoder in Assembly;
 * Implementation of ASN.1 to create a PEM file of RSA derived keys from .NET Framework in Powershell;
-* Many simple Assembly code's explained in details.
+* Many simple Assembly codes explained in details.
 
  # 
 - 💬 Ask me about Assembly and C
